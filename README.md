@@ -36,7 +36,7 @@ Bắt buộc phải cài đặt [JAVA-JDK-17](https://vi.wikipedia.org/wiki/JDK)
 - TẢI XUỐNG VÀ CÀI ĐẶT [NETBEANS](https://archive.apache.org/dist/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe)
   - Giao diện không đẹp bằng nhưng đầy đủ công cụ và chức năng > nặng hơn ( vì nó là IDE )
 ### Bắt buộc phải có
-- TẢI XUỐNG VÀ CÀI ĐẶT [JAVA-JDK-17](https://www.oracle.com/java/technologies/downloads/#java17)
+- TẢI XUỐNG VÀ CÀI ĐẶT [JAVA-JDK-17](https://www.oracle.com/java/technologies/downloads/#java17-windows)
   - Dùng để chạy server
   - ${{\color{red}{\textsf{CHỈ\ ĐƯỢC\ DÙNG\ PHIÊN\ BẢN\ 17\ \}}}}\$
 - TẢI XUỐNG VÀ CÀI ĐẶT [XAMPP](https://www.apachefriends.org/download.html)
