@@ -22,21 +22,20 @@ Trong cái repo này bạn sẽ học được cách chỉnh sửa source ngọc
     </sub>
 </div>
 
-- [N-Days-NGOCRONG](#n-days-ngocrong---giới-thiệu)
-- [Chuẩn bị](#chuẩn-bị)
-   - [Cài đặt môi trường](#cài-đặt-môi-trường)
 # CHUẨN BỊ
 > bấm vào chữ màu xanh để tải
  
 -> Chuẩn bị một con máy tính khỏe khỏe xíu, hoặc có thể thuê vps...<br>
--> Một cái source của ngọc rồng đi kèm với nó là tệp sql, ở đây mình dùng source này [JINN1368.NGOCRONG.zip](), sql dành cho [JINN1368.NGOCRONG.zip]()
+-> Một cái source của ngọc rồng đi kèm với nó là tệp sql, ở đây mình dùng source này [JINN1368.NGOCRONG.zip](https://yeumoney.com/_SugBR)
 ### CÀI ĐẶT MÔI TRƯỜNG
 Bạn có thể sử dụng [VSCODE](https://vi.wikipedia.org/wiki/Visual_Studio_Code) hoặc [NETBEANS](https://vi.wikipedia.org/wiki/NetBeans) hoặc cả hai đều được<br>
 Bắt buộc phải cài đặt [JAVA-JDK-17](https://vi.wikipedia.org/wiki/JDK) và [XAMPP](https://vi.wikipedia.org/wiki/XAMPP)
+###  Tùy chọn - thích cài cái nào cũng được
 - TẢI XUỐNG VÀ CÀI ĐẶT [VSCODE](https://code.visualstudio.com/)
   - Giao diện đẹp, dễ dùng, nhẹ, dễ custom ( vì nó là trình soạn thảo )
 - TẢI XUỐNG VÀ CÀI ĐẶT [NETBEANS](https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule)
   - Giao diện không đẹp bằng nhưng đầy đủ công cụ và chức năng > nặng hơn ( vì nó là IDE )
+### Bắt buộc phải có
 - TẢI XUỐNG VÀ CÀI ĐẶT [JAVA-JDK-17](https://www.oracle.com/java/technologies/downloads/#java17)
   - Dùng để chạy server
   - ${{\color{red}{\textsf{CHỈ\ ĐƯỢC\ DÙNG\ PHIÊN\ BẢN\ 17\ \}}}}\$
