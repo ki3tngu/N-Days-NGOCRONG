@@ -33,7 +33,7 @@ Bắt buộc phải cài đặt [JAVA-JDK-17](https://vi.wikipedia.org/wiki/JDK)
 ###  Tùy chọn - thích cài cái nào cũng được
 - TẢI XUỐNG VÀ CÀI ĐẶT [VSCODE](https://code.visualstudio.com/)
   - Giao diện đẹp, dễ dùng, nhẹ, dễ custom ( vì nó là trình soạn thảo )
-- TẢI XUỐNG VÀ CÀI ĐẶT [NETBEANS](https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule)
+- TẢI XUỐNG VÀ CÀI ĐẶT [NETBEANS](https://archive.apache.org/dist/netbeans/netbeans-installers/17/Apache-NetBeans-17-bin-windows-x64.exe)
   - Giao diện không đẹp bằng nhưng đầy đủ công cụ và chức năng > nặng hơn ( vì nó là IDE )
 ### Bắt buộc phải có
 - TẢI XUỐNG VÀ CÀI ĐẶT [JAVA-JDK-17](https://www.oracle.com/java/technologies/downloads/#java17)
