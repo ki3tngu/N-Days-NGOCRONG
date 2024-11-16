@@ -46,9 +46,9 @@ Giải nén file source đã tải ở bài 0 và mở tệp `girlkundb.properti
         - Exp khi farm
 ### Chạy và build server
 - ${{\color{red}{\textsf{Bật XAMPP và khởi động database \}}}}\$
-<img src="xampp.png">
-    - Truy cập [http://localhost/phpmyadmin/] để tạo database
+<img src="img\xampp.png">
+    - Truy cập <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a> để tạo database
 - để chạy server nhấn vào biếu tượng này ở IDE: <br>
-<img src="buildAndRun.png">
-    - Phần khoanh đỏ là build server, xanh là chạy server
-    - Để test server háy tự tải cho mình một phiên bản nro
+<img src="img\buildAndRun.png">
+    - Phần khoanh đỏ là build server, xanh là chạy server<br>
+    - Để test server hãy tự tải cho mình một phiên bản nro
