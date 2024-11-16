@@ -33,6 +33,7 @@ Giải nén file source đã tải ở bài 0 và mở tệp `girlkundb.properti
 `server.girlkun.sv=1`: số server, giống vũ trụ 1, 2,3 ... ở đây chỉ có 1 server<br>
 `server.girlkun.port=14445`: port của server, ví dụ server game có ip: 127.0.0.1:14445<br>
 `server.girlkun.name=JINN`: Tên server, khi đổi không ảnh hưởng đến src game<br>
+`server.girlkun.sv1=JINN:127.0.0.1:14445:0,0,0` khi thay đổi tên hãy đổi tên luôn dòng này
         ```
         server.girlkun.waitlogin=0
         server.girlkun.maxperip=20
@@ -45,10 +46,11 @@ Giải nén file source đã tải ở bài 0 và mở tệp `girlkundb.properti
         - Số người chơi tối đa của server
         - Exp khi farm
 ### Chạy và build server
-- ${{\color{red}{\textsf{Bật XAMPP và khởi động database \}}}}\$
-<img src="img\xampp.png">
+- ${{\color{red}{\textsf{Bật XAMPP và khởi động database \}}}}\$<br>
+<img src="img\xampp.png"><br>
     - Truy cập <a href="http://localhost/phpmyadmin/" target="_blank">http://localhost/phpmyadmin/</a> để tạo database
+
 - để chạy server nhấn vào biếu tượng này ở IDE: <br>
-<img src="img\buildAndRun.png">
+<img src="img\buildAndRun.png"><br>
     - Phần khoanh đỏ là build server, xanh là chạy server<br>
     - Để test server hãy tự tải cho mình một phiên bản nro
