@@ -26,7 +26,7 @@ Trong cái repo này bạn sẽ học được cách chỉnh sửa source ngọc
 > bấm vào chữ màu xanh để tải
  
 -> Chuẩn bị một con máy tính khỏe khỏe xíu, hoặc có thể thuê vps...<br>
--> Một cái source của ngọc rồng đi kèm với nó là tệp sql, ở đây mình dùng source này [JINN1368.NGOCRONG.zip](https://yeumoney.com/_SugBR)
+-> Một cái source của ngọc rồng đi kèm với nó là tệp sql, ở đây mình dùng source này [JINN1368.NGOCRONG.zip](https://link4m.com/k4OKBZW)
 ### CÀI ĐẶT MÔI TRƯỜNG
 Bạn có thể sử dụng [VSCODE](https://vi.wikipedia.org/wiki/Visual_Studio_Code) hoặc [NETBEANS](https://vi.wikipedia.org/wiki/NetBeans) hoặc cả hai đều được<br>
 Bắt buộc phải cài đặt [JAVA-JDK-17](https://vi.wikipedia.org/wiki/JDK) và [XAMPP](https://vi.wikipedia.org/wiki/XAMPP)
