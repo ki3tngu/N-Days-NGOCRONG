@@ -22,7 +22,7 @@ Chỉnh sửa tỉ lệ đập đồ
     </sub>
 </div>
 
-- Truy cập đường dẫn: `com.girlkun.services.func\combineservices.java`
+- Truy cập đường dẫn: `com.girlkun.services.func\CombineServicesNew.java`
     - getGold: Vàng cần để nâng cấp
     - getRatio: Tỉ lệ thành công
     - getGem: Ngọc, hồng ngọc cần để nâng cấp
