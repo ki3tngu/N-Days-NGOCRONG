@@ -26,7 +26,7 @@ Chỉnh sửa tỉ lệ đập đồ
     - getGold: Vàng cần để nâng cấp
     - getRatio: Tỉ lệ thành công
     - getGem: Ngọc, hồng ngọc cần để nâng cấp
-    - Các `case`: các nhiều `case` thì càng nhiều sao<br>
+    - Các `case`: càng nhiều `case` thì càng nhiều sao<br>
     ví dụ: cho phép tối đa 5 sao hoặc 5 level:
     ```
     case 0:
