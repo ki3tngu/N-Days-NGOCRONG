@@ -62,4 +62,4 @@ Chỉnh sửa tỉ lệ đập đồ
         return 120000000;
     ```
     - **Lưu ý**: khi chỉnh sửa các `case` thì các hàm khác đều phải có thêm `case` tương ứng
-    ví dụ: hàm `getRatio...` có `7 case` thì hàm `getGem`, `getGold` đều phải có 7 case
+    ví dụ: hàm `getRatio...` có `7 case` thì hàm `getGem`, `getGold` đều phải có `7 case`
